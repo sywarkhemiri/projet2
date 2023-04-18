@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the footer */
+  footer {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+    position:absolute;
+    bottom: 1000;
+    left: 0;
+    width: 100%;
+    text-decoration: none;
+  }
+  
+  /* Style the footer text */
+  a{
+    text-decoration: none;
+    color: aquamarine;
+  }
+  .pic{
+    height: 100;
+  }
+
+
+ 
+  

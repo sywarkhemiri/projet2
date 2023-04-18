@@ -1,0 +1,17 @@
+body{
+    background-color:white;
+}
+footer {
+    background-color: #f8f8f8;
+    padding: 10px;
+    text-align: center;
+    position:absolute;
+    bottom: 1000;
+    left: 0;
+    width: 100%;
+    text-decoration: none;
+  }
+  a{
+    text-decoration: none;
+    color: aquamarine;
+  }
